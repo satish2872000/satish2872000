@@ -6,12 +6,17 @@
 <h1 align="center">Hey 👋, I'm <span style="color:#00ffcc;">Satish Kumar Jaiswal</span></h1>
 <h3 align="center">🚀 Backend Developer | ☁️ Cloud Enthusiast | 💚 Java & Spring Boot Lover</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=SpringBoot+Developer;Java+Backend+Engineer;Cloud+Integration+Lover;Apache+Camel+Explorer;Let's+build+something+awesome!&center=true&width=500&height=45&font=Fira+Code&pause=1000&color=00FFD1" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.demolab.com/?lines=SpringBoot+Developer;Java+Backend+Engineer;Cloud+Integration+Lover;Apache+Camel+Explorer;Let's+build+something+awesome!&center=true&width=500&height=45&font=Fira+Code&pause=1000&color=00FFD1" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
