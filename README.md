@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://github.com/satish2872000/satish2872000/blob/main/Banner_video-ezgif.com-added-text.gif?raw=true" alt="Satish Kumar Jaiswal Banner" width="100%" />
+  <img src="https://github.com/satish2872000/satish2872000/blob/main/Banner_video-ezgif.com-added-text.gif?raw=true" alt="Satish Kumar Jaiswal Banner" width="100%" height="250px"  />
 </p>
 
 <h1 align="center">Hey 👋, I'm <span style="color:#00ffcc;">Satish Kumar Jaiswal</span></h1>
